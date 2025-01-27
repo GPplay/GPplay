@@ -1,5 +1,11 @@
 # 💫 About Me:
-¡Hola! Soy Gybram Llamas, un programador colombiano de 22 años apasionado por la tecnología y el desarrollo de software. Me especializo en C#, desarrollo de software y modelado 3D, y tengo experiencia con herramientas como Unity, .NET y Flutter. A lo largo de mis proyectos personales, he desarrollado habilidades clave en la creación de aplicaciones y videojuegos, como Hit Jump, un juego estilo metroidvania hecho en unity, y Notify Home, una aplicación móvil hecha en flutter.<br><br>Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y mejorar. Me entusiasma colaborar en proyectos innovadores y contribuir con soluciones creativas y eficientes. Si estás buscando un desarrollador comprometido, con una gran motivación por crecer y con ganas de aportar al éxito de tu proyecto, ¡hablemos!
+Desarrollador de software apasionado por la creación de soluciones innovadoras y eficientes. Especializado en el desarrollo de aplicaciones utilizando tecnologías como .NET, Flutter y Unity, con experiencia en la construcción de software robusto, aplicaciones móviles multiplataforma y experiencias interactivas en entornos 3D.
+
+Además, cuento con conocimientos en diseño web y diseño de aplicaciones móviles utilizando Figma, lo que me permite combinar habilidades técnicas con un enfoque centrado en la usabilidad y la experiencia del usuario.
+
+En mi repositorio de GitHub, encontrarás proyectos que reflejan mi dedicación al aprendizaje continuo, la resolución de problemas y la implementación de mejores prácticas en el desarrollo de software. Siempre estoy abierto a colaborar en proyectos desafiantes y a contribuir al mundo del código abierto.
+
+¡Conectemos y construyamos algo increíble juntos!
 
 
 ## 🌐 Socials:
