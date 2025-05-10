@@ -1,11 +1,11 @@
-# 💫 About Me:
-Desarrollador de software apasionado por la creación de soluciones innovadoras y eficientes. Especializado en el desarrollo de aplicaciones utilizando tecnologías como .NET, Flutter y Unity, con experiencia en la construcción de software robusto, aplicaciones móviles multiplataforma y experiencias interactivas en entornos 3D.
+# 💫 Sobre mi:
+🎮 Desarrollador de Software | .NET | Flutter | Unity | C# | 2D/3D
 
-Además, cuento con conocimientos en diseño web y diseño de aplicaciones móviles utilizando Figma, lo que me permite combinar habilidades técnicas con un enfoque centrado en la usabilidad y la experiencia del usuario.
+Hola, soy Gybram Llamas, desarrollador autodidacta con experiencia en creación de videojuegos y aplicaciones multiplataforma. Trabajo con tecnologías como C#, Unity, .NET y Flutter, combinando lógica, diseño y rendimiento para desarrollar soluciones interactivas y funcionales tanto para PC como dispositivos móviles.
 
-En mi repositorio de GitHub, encontrarás proyectos que reflejan mi dedicación al aprendizaje continuo, la resolución de problemas y la implementación de mejores prácticas en el desarrollo de software. Siempre estoy abierto a colaborar en proyectos desafiantes y a contribuir al mundo del código abierto.
+Me especializo en programación orientada a objetos, modelado 3D, desarrollo front-end y back-end, y siempre estoy buscando formas de aprender más y mejorar mis habilidades. Me apasiona construir experiencias que conecten con los usuarios.
 
-¡Conectemos y construyamos algo increíble juntos!
+🚀 Abierto a colaborar, crecer profesionalmente y enfrentar nuevos retos.
 
 
 ## 🌐 Socials:
